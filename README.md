@@ -1,16 +1,44 @@
-## Hi there 👋
+### 🌑 Nyxox-debug
 
-<!--
-**Nyxox-debug/Nyxox-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, clean systems and tools that *just work* — beautifully and efficiently.
 
-Here are some ideas to get you started:
+Currently crafting:
+- CLI tools in **Go** & **Rust**
+- Robust APIs with **TypeScript/Node.js**
+- 🐧 Minimal Linux setups (Hyprland, Rice, Dotfiles)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛰️ What I Do
+
+- Blazing-fast command-line utilities  
+- Modular TypeScript architectures  
+- Hyper-efficient Linux environments
+
+> *Milliseconds matter. Clean code > clever code.*
+
+---
+
+### Focus
+
+Performance-first development, elegant system design, and simplicity that scales.
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go,typescript,nodejs,react,nextjs,linux,neovim" />
+  </a>
+</p>
+
+---
+
+### Links
+- [Email](mailto:numterminal@gmail.com)
+
+---
+
+> *“The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly.”*  
+> — **Donald Knuth**
