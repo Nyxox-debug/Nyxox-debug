@@ -7,6 +7,7 @@ Currently crafting:
 - Robust APIs with **TypeScript/Node.js**
 - 🐧 Minimal Linux setups (Hyprland, Rice, Dotfiles)
 
+---
 
 ### 🛰️ What I Do
 
@@ -16,11 +17,13 @@ Currently crafting:
 
 > *Milliseconds matter. Clean code > clever code.*
 
+---
+
 ### Focus
 
 Performance-first development, elegant system design, and simplicity that scales.
 
-
+---
 
 ### Tech Stack
 
@@ -30,10 +33,12 @@ Performance-first development, elegant system design, and simplicity that scales
   </a>
 </p>
 
+---
 
 ### Links
 - [Email](mailto:numterminal@gmail.com)
 
+---
 
 > *“The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly.”*  
 > — **Donald Knuth**
