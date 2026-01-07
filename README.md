@@ -40,5 +40,5 @@ Performance-first development, elegant system design, and simplicity that scales
 
 ---
 
-> *“The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly.”*  
-> — **Donald Knuth**
+> *“Don't only practice your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.”*  
+> — **Ludwig van Beethoven**
