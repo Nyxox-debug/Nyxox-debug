@@ -7,7 +7,7 @@ Currently crafting:
 - Robust APIs with **TypeScript/Node.js**
 - 🐧 Minimal Linux setups (Hyprland, Rice, Dotfiles)
 
---- 
+---  
 
 ### 🛰️ What I Do
 
