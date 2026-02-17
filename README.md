@@ -42,3 +42,5 @@ Performance-first development, elegant system design, and simplicity that scales
 
 > *“Don't only practice your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.”*  
 > — **Ludwig van Beethoven**
+
+<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=Nyxox-debug&color=000000) -->
