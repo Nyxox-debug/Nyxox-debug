@@ -1,27 +1,13 @@
 ### 🌑 Nyxox-debug
 
-I build fast, clean systems and tools that *just work* — trying not to be a normie dev.
-
-Currently crafting:
-- CLI tools in **Go** & **Rust**
-- Robust APIs with **TypeScript/Node.js**
-- 🐧 Minimal Linux setups (Hyprland, Rice, Dotfiles)
+Trying not to be a normie Web dev.
 
 ---        
 
-### 🛰️ What I Do
-
-- Blazing-fast command-line utilities  
-- Modular TypeScript architectures  
-- Hyper-efficient Linux environments
-
-> *Milliseconds matter. Clean code > clever code.*
-
----
-
-### Focus
-
-Performance-first development, elegant system design, and simplicity that scales.
+I build:
+	•	⚡ CLI tools in Go & Rust
+	•	🔗 APIs with TypeScript/Node.js
+	•	🐧 Minimal Linux setups (Hyprland, Rice, Dotfiles)
 
 ---
 
