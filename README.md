@@ -2,14 +2,10 @@
 
 Trying not to be a normie Web dev.
 
----        
-
 I build:
 	•	⚡ CLI tools in Go & Rust
 	•	🔗 APIs with TypeScript/Node.js
 	•	🐧 Minimal Linux setups (Hyprland, Rice, Dotfiles)
-
----
 
 ### Tech Stack
 
@@ -19,12 +15,8 @@ I build:
   </a>
 </p>
 
----
-
 ### Links
 - [Email](mailto:numterminal@gmail.com)
-
----
 
 > *“Don't only practice your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.”*  
 > — **Ludwig van Beethoven**
