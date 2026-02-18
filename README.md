@@ -29,7 +29,7 @@ Performance-first development, elegant system design, and simplicity that scales
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,typescript,nodejs,react,nextjs,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,typescript,nodejs,react,nextjs,linux,neovim" />
   </a>
 </p>
 
