@@ -2,10 +2,10 @@
 
 Trying not to be a normie Web dev.
 
-I build:
-	•	⚡ CLI tools in Go & Rust
-	•	🔗 APIs with TypeScript/Node.js
-	•	🐧 Minimal Linux setups (Hyprland, Rice, Dotfiles)
+I build:  
+- ⚡ CLI tools in Go & Rust  
+- 🔗 APIs with TypeScript/Node.js  
+- 🐧 Minimal Linux setups (Hyprland, Rice, Dotfiles)
 
 ### Tech Stack
 
