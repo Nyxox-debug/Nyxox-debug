@@ -12,7 +12,7 @@ I build:
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,go,typescript,nodejs,react,nextjs,linux,neovim" />
+        <img src="https://skillicons.dev/icons?i=cpp,rust,go,typescript,nodejs,react,nextjs,linux,neovim" />
     </a>
 </p>
 
