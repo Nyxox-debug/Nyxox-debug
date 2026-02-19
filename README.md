@@ -1,3 +1,6 @@
+Go, Cpp, Rust and Web Dev
+
+<!--
 ### 🌑 Nyxox-debug
 
 Trying not to be a normie Web dev.
@@ -17,6 +20,7 @@ I build:
 </p>
 
 
+
 ### Links
 
 - [Email](mailto:numterminal@gmail.com)
@@ -26,4 +30,4 @@ I build:
 > — **Ludwig van Beethoven**
 
 
-<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=Nyxox-debug&color=000000) -->
+<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=Nyxox-debug&color=000000) --> 
