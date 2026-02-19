@@ -1,4 +1,4 @@
-Go, Cpp, Rust and Web Dev
+Go, Cpp, Python and Web Dev
 
 <!--
 ### 🌑 Nyxox-debug
